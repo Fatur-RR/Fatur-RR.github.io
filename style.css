@@ -1,9 +1,9 @@
 .jumbotron {
     padding-top: 6rem;
-    background-color: #e2edff;
+    background: -webkit-linear-gradient(bottom,#3498db,#9b59b6);
 }
 #projects{
-    background-color: #e2edff;
+    background: -webkit-linear-gradient(bottom,#3498db,#9b59b6);
 }
 section {
     padding-top: 5rem;
